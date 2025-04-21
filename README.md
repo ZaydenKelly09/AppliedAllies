@@ -1,2 +1,2 @@
 # AppliedAllies
-Practical allyship in action, inspired by "Allies: Real Talk...". Documenting the journey of showing up, learning from mistakes, and trying again. Explore reflections &amp; real-world steps to make a difference.
+Welcome! Reading "Allies: Real Talk About Showing Up, Screwing Up, And Trying Again" is one thing; putting its principles into practice is another. This blog is dedicated to that ongoing process. Here, we explore what it really looks like to show up, share honestly about the mistakes made along the way ('screwing up'), and foster the resilience needed to 'try again.' Expect practical tips, personal reflections, and a focus on turning good intentions into meaningful, everyday allyship actions.
