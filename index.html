@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppliedAllies</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+</head>
+<body>
+    <header class="border-b border-gray-800 py-6">
+        <div class="container mx-auto px-4 md:px-6">
+            <div class="flex justify-between items-center">
+                <a href="#" onclick="showHomePage()" class="text-2xl font-bold accent">Applied<span class="text-white">Allies</span></a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 md:px-6 py-8">
+        <!-- Blog Posts List -->
+        <section id="blog-content" class="py-8">
+            <h1 class="text-3xl font-bold mb-8">Latest Posts</h1>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="posts-container">
+                <!-- Posts will be dynamically inserted here -->
+            </div>
+        </section>
+
+        <!-- Individual Post Content -->
+        <section id="post-content" class="py-8 max-w-3xl mx-auto">
+            <button onclick="showHomePage()" class="mb-6 flex items-center text-sm text-gray-400 hover:text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+                </svg>
+                Back to all posts
+            </button>
+            
+            <article>
+                <h1 id="post-title" class="text-3xl font-bold mb-2"></h1>
+                <time id="post-date" class="text-sm text-gray-400 mb-6 block"></time>
+                <div id="post-body" class="prose prose-invert max-w-none">
+                    <!-- Post content will be inserted here -->
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <!-- Post Template (for adding new posts) -->
+    <div class="post-template">
+        <!-- Template for blog post preview card -->
+        <div class="card rounded-lg overflow-hidden shadow-lg">
+            <div class="p-6">
+                <h2 class="text-xl font-semibold mb-2 post-title"></h2>
+                <time class="text-sm text-gray-400 mb-4 block post-date"></time>
+                <div class="post-excerpt text-gray-300 mb-4"></div>
+                <a href="#" class="btn-accent text-white px-4 py-2 rounded-md inline-block text-sm font-medium read-more">Read More</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Retro Theme Elements -->
+    <div id="retro-scanline" class="retro-scanline" style="display: none;"></div>
+    <div id="retro-indicator" class="retro-indicator" style="display: none;">RETRO MODE</div>
+
+    <!-- Template for adding new blog posts -->
+<script src="scripts.js"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'933eb76b05555302',t:'MTc0NTI1Nzc1MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+</body>
+</html>

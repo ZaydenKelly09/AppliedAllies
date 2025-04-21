@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Press+Start+2P&display=swap');
+        
+:root {
+    --bg-primary: #0f0a13;
+    --bg-secondary: #1a121e;
+    --accent: #6b21a8;
+    --accent-hover: #7e22ce;
+    --text-primary: #f5f5f5;
+    --text-secondary: #b3b3b3;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    transition: all 0.5s ease;
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.accent {
+    color: var(--accent);
+}
+
+.btn-accent {
+    background-color: var(--accent);
+    transition: all 0.3s ease;
+}
+
+.btn-accent:hover {
+    background-color: var(--accent-hover);
+}
+
+.card {
+    background-color: var(--bg-secondary);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+#blog-content {
+    display: block;
+}
+
+#post-content {
+    display: none;
+}
+
+.post-template {
+    display: none;
+}
+
+/* Retro Theme Styles */
+body.retro-theme {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #170b28;
+    color: #e0c3ff;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    font-size: small;
+}
+
+body.retro-theme .container {
+    max-width: auto !important;
+}
+
+body.retro-theme h1, 
+body.retro-theme h2, 
+body.retro-theme h3 {
+    color: #ff9edb;
+    text-shadow: 2px 2px 0px #4a0072;
+    margin-bottom: 1.5rem;
+}
+
+body.retro-theme .card {
+    background-color: #2d1b46;
+    border: 4px solid #8b46cc;
+    box-shadow: 4px 4px 0px #000000;
+    transform: none;
+    transition: none;
+    margin-bottom: 2rem;
+}
+
+body.retro-theme .card:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #000000;
+}
+
+body.retro-theme .btn-accent {
+    background-color: #8b46cc;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 3px 3px 0px #000000;
+    padding: 0.5rem 1rem;
+    transition: none;
+}
+
+body.retro-theme .btn-accent:hover {
+    background-color: #a64dff;
+    transform: translate(-2px, -2px);
+    box-shadow: 5px 5px 0px #000000;
+}
+
+body.retro-theme header,
+body.retro-theme footer {
+    background-color: #2d1b46;
+    border-top: 4px solid #8b46cc;
+    border-bottom: 4px solid #8b46cc;
+}
+
+body.retro-theme .accent {
+    color: #ff9edb;
+    text-shadow: 2px 2px 0px #4a0072;
+}
+
+body.retro-theme p, 
+body.retro-theme li {
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+}
+
+body.retro-theme ul {
+    list-style-type: none;
+    padding-left: 1rem;
+}
+
+body.retro-theme ul li::before {
+    content: "► ";
+    color: #ff9edb;
+}
+
+body.retro-theme .retro-scanline {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.03) 50%,
+        rgba(0, 0, 0, 0.1) 50%
+    );
+    background-size: 100% 4px;
+    z-index: 2000;
+    pointer-events: none;
+    opacity: 0.15;
+}
+
+body.retro-theme .retro-indicator {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #2d1b46;
+    color: #ff9edb;
+    border: 2px solid #8b46cc;
+    padding: 8px 12px;
+    font-size: 12px;
+    z-index: 1000;
+    box-shadow: 3px 3px 0px #000000;
+}
+
+  
