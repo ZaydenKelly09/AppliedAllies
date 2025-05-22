@@ -109,13 +109,13 @@
             excerpt: "",
             content: `
                 <p>
-                Today in Spanish class, as we were learning about the Bracero Program (agreement between the US
+                A couple of days ago in Spanish class, as we were learning about the Bracero Program (agreement between the US
                 and Mexican government that let Mexican citizens do temporary farm work in the US) and I found myself
                 thinking about how some of the things we take for granted, like healthcare, they simply didn't have. This
                 made me reflect on my privileges, a big idea discussed in the book. It made me notice how much I take 
                 for granted the ability to go to the doctor whenever I feel sick, without a second thought about whether I could
                 afford it or even had access to it. This connects to the idea of recognizing "glitches" in our understanding of
-                the world, it made me consider the inequalities people face that impacts something as important as their health.
+                the world. It made me consider the inequalities people face that impact something as important as their health.
                 It also shows how much I still have to learn about the realities of marginalized groups and the importance of
                 empathy in learning about these groups.
                 </p>
@@ -169,7 +169,7 @@
                 Lately, I've been really annoyed by a specific thing with a friend who calls me "gay" as an insult when he is
                 frustrated or annoyed at me. This isn't about my real identity but rather his use of "gay" as an insult that bothers
                 me, especially after reading the book and thinking about the impact of language. It feels like the direct opposite of the respect and 
-                understanding that the book promotes, it is also a clear example of how simple phrases can create harm. I think this is a difficult position
+                understanding that the book promotes. It is also a clear example of how simple phrases can create harm. I think this is a difficult position
                 because the concept of "calling in" a friend seems appropriate, but the fear of losing a friendship makes me really hesitate. This really shows
                 the challenge of balancing personal relationships and also my responsibility to speak out against language that insults anyone, and I am still trying
                 to think about how to deal with these uncomfortable but important discussions.
@@ -186,7 +186,7 @@
                 <p>
                 These past couple of days, while watching a TV show with my parents, they made a racist remark and referred to some Muslim characters as "terrorists,"
                 a comment that immediately made me feel uncomfortable and angry. It was a big reminder of the bad stereotypes that Adiba Jaigirdar described facing as 
-                a Muslim person in the book and how language like that creates a hostile environment. Even though I thought about the importance of not being a silent bystander I
+                a Muslim person in the book and how language like that creates a hostile environment. Even though I thought about the importance of not being a silent bystander, I
                 didn't say anything because I was worried about my parents' reaction if I challenged them. This highlighted a really difficult part of allyship for me: 
                 the trouble between wanting to challenge harmful ideas and also the fear of personal consequences. It also makes me think about how privilege and power, even in a family,
                 can silence someone. It shows that sometimes the safest option during the moment feels like you are doing nothing, even if it leaves me with regrets.
@@ -223,7 +223,8 @@
                 using my voice in small ways, and acknowledging my privileges, have constantly been tested. I've learned that it's not about achieving a perfect state of being an ally, but about the consistent 
                 effort to show up, listen, and try, even when it's hard, like when I hesitated to speak up in Spanish or with my parents. The personal stories throughout the book have been really impactful, making the
                 principles of allyship feel more tangible and human.
-                <br>
+                </p>
+                <p>
                 Going forward, I hope to carry these skills into my daily life by being more mindful of my language, more observant about the power and privileges that are around me, and more brave in "calling in" hurtful
                 comments when I can. I also want to continue to learn and seek out many diverse perspectives, as the book promotes. I know I won't always be right, and there will be more screw ups, but this experience
                 has solidified my understanding that the commitment to learning from these moments and trying again is what truly matters. This journal has been a really good tool for processing these experiences, and I want to continue
