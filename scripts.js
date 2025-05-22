@@ -223,7 +223,8 @@
                 using my voice in small ways, and acknowledging my privileges, have constantly been tested. I've learned that it's not about achieving a perfect state of being an ally, but about the consistent 
                 effort to show up, listen, and try, even when it's hard, like when I hesitated to speak up in Spanish or with my parents. The personal stories throughout the book have been really impactful, making the
                 principles of allyship feel more tangible and human.
-                </p>
+                </p>\
+                <br>
                 <p>
                 Going forward, I hope to carry these skills into my daily life by being more mindful of my language, more observant about the power and privileges that are around me, and more brave in "calling in" hurtful
                 comments when I can. I also want to continue to learn and seek out many diverse perspectives, as the book promotes. I know I won't always be right, and there will be more screw ups, but this experience
